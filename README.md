@@ -51,7 +51,7 @@ Sort the data by finding out which trainer has the strongest pokemon so that thi
 
 ## Turning in this assignment
 
-To turn in this assignment, create files for each part with at least one query for each question answered. Above each query include a comment with the question you were answering.
+To turn in this assignment, create files for each part with at least one query for each question answered. Above each query include a comment with the question you were answering. The files should have the extension `.sql`
 Example: 
 
 ```SQL
@@ -61,4 +61,4 @@ Example:
 
 For Part 4 specifically also leave a comment explaining how your query is deciding who the strongest trainer is
 
-Once all of that is done, submit a pull request
+Once all of that is done, submit your file.
