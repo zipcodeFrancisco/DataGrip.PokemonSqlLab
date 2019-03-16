@@ -10,7 +10,7 @@
 ### Part 1: Importing data
 Directions:
 
-* In intellij, [connect to your local mysql instance](https://www.jetbrains.com/help/idea/connecting-to-a-database.html#mysql)
+* In DataGrip, [connect to your local mysql instance](https://www.jetbrains.com/help/idea/connecting-to-a-database.html#mysql)
 * Create your pokemon schema
 * Unpack the pokemon_sql.zip files
 * One by one execute these files making sure to check your pokemon schema
